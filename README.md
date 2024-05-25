@@ -1,5 +1,3 @@
-@@ -1,16 +1 @@
-## Hi there 👋
 <a href="https://app.daily.dev/amseify"><img src="https://api.daily.dev/devcards/v2/diZbLYYsUMkgYNcpePfIa.png?r=9e8&type=default" width="356" alt="AMSeify's Dev Card"/></a>
 <!--
 **AMSeify/AMSeify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
